@@ -1,0 +1,20 @@
+PORT SCAN REPORT
+================
+Target: 127.0.0.1
+Port range: 2998-3002
+Scan time: 2026-08-17 00:02:01
+
+Port: 3000
+Status: OPEN
+Service: HBCI
+Protocol: HTTP
+Technology: Next.js
+Risk: LOW
+Banner: HTTP/1.1 200 OK
+
+----------------
+
+SCAN SUMMARY
+============
+Open ports found: 1
+Open ports: 3000
